@@ -20,15 +20,13 @@ This project lets you **talk to your SQLite database using natural language** an
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/text-to-sql-streamlit.git
+git clone https://github.com/manveer15/text-to-sql-streamlit.git
+To run the Streamlit UI
 cd text-to-sql-streamlit
 2. Install Dependencies
 pip install streamlit pandas openpyxl langchain langchain-groq
 3. Set Up Environment Variable
 You need a Groq API key.
+export GROQ_API_KEY=your_groq_api_key
 
 Create a .env file or set the environment variable in your shell:
-
-export GROQ_API_KEY=your_groq_api_key
-Or in Windows CMD:
-set GROQ_API_KEY=your_groq_api_key
