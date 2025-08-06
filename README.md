@@ -1,21 +1,21 @@
 # Pain-English-to-SQl
-# 🧠 Text-to-SQL Chat with Database Upload (Streamlit + LLM)
+# Text-to-SQL Chat with Database Upload (Streamlit + LLM)
 
 This project lets you **talk to your SQLite database using natural language** and **upload CSV/Excel files** to automatically update the database — all via a beautiful **Streamlit UI** powered by **LangChain + Groq LLM (LLaMA3)**.
 
 ---
 
-## ✨ Features
+## Features
 
-- 💬 Convert natural language questions into SQL queries using LLM
-- 📁 Upload `.csv` or `.xlsx` files and auto-update your SQLite DB
-- 🧠 Uses [LangChain](https://www.langchain.com/) and [Groq's LLaMA3](https://console.groq.com/)
-- 🔍 Real-time SQL query execution and result display
-- ⚡ Powered by Streamlit for interactive UI
+- Convert natural language questions into SQL queries using LLM
+- Upload `.csv` or `.xlsx` files and auto-update your SQLite DB
+- Uses [LangChain](https://www.langchain.com/) and [Groq's LLaMA3](https://console.groq.com/)
+- Real-time SQL query execution and result display
+- Powered by Streamlit for interactive UI
 
 ---
 
-## 🚀 Getting Started
+##  Getting Started
 
 ### 1. Clone the Repository
 
