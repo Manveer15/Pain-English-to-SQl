@@ -2,6 +2,7 @@
 # Text-to-SQL Chat with Database Upload (Streamlit + LLM)
 
 This project lets you **talk to your SQLite database using natural language** and **upload CSV/Excel files** to automatically update the database — all via a beautiful **Streamlit UI** powered by **LangChain + Groq LLM (LLaMA3)**.
+**This is Only for demo .**
 
 ---
 
